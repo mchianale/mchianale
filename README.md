@@ -8,7 +8,7 @@
 
 | How | What |
 | --- | --- |
-| Linkedin | [Chianale Matteo ](www.linkedin.com/in/matteo-chianale/) |
+| Linkedin | [Chianale Matteo ](https://www.linkedin.com/in/matteo-chianale/) |
 | Mail | matteo.chianale75@gmail.com |
 
 <h2> 💻 Skills :</h2>
