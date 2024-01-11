@@ -35,4 +35,5 @@
   - [Anki copy with Social functionalities](https://github.com/mchianale/Learning_Pro_Web_App)
   - [Fitness app with time table system](https://github.com/mchianale/fitlifepro)
 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mchianale&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
