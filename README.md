@@ -2,6 +2,7 @@
 
 <h2>💫 About Me:</h2>
 👨‍🎓Student in Data engineering & IA at ESILV<br> 
+![](https://komarev.com/ghpvc/?username=mchianale&label=VISITORS)
 
 <h3>🔗 Contact me:</h3>
 
@@ -33,9 +34,5 @@
 - <b>Web App with frontend & backend</b>
   - [Anki copy with Social functionalities](https://github.com/mchianale/Learning_Pro_Web_App)
   - [Fitness app with time table system](https://github.com/mchianale/fitlifepro)
-  
-
-
-![](https://komarev.com/ghpvc/?username=mchianale&label=VISITORS)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mchianale&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
