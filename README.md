@@ -3,6 +3,13 @@
 <h2>💫 About Me:</h2>
 👨‍🎓Student in Data engineering & IA at ESILV<br> 
 
+<h3>🔗 Contact me:</h3>
+
+| How | What |
+| --- | --- |
+| Linkedin | [Chianale Matteo ](https://www.linkedin.com/in/leo-combaret/) |
+| Mail | matteo.chianale75@gmail.com |
+
 <h2> 💻 Skills :</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -27,13 +34,8 @@
   - [Anki copy with Social functionalities](https://github.com/mchianale/Learning_Pro_Web_App)
   - [Fitness app with time table system](https://github.com/mchianale/fitlifepro)
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mchianale&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<h3>🔗 Contact me:</h3>
-
-| How | What |
-| --- | --- |
-| Linkedin | [Chianale Matteo ](https://www.linkedin.com/in/leo-combaret/) |
-| Mail | matteo.chianale75@gmail.com |
 
 ![](https://komarev.com/ghpvc/?username=mchianale&label=VISITORS)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mchianale&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
