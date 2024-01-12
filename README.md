@@ -38,6 +38,9 @@
 - <b>Web App with frontend & backend</b>
   - [Anki copy with Social functionalities](https://github.com/mchianale/Learning_Pro_Web_App)
   - [Fitness app with time table system](https://github.com/mchianale/fitlifepro)
+
+- <b>Computer Vision</b>
+  - [Plastic garbage detection using Yolov5](https://github.com/mchianale/plastic-garbage-detection)
  
 - <b>Blockchain</b>
   - [Voting system using blockchain](https://github.com/mchianale/voting-system-using-blockchain)
