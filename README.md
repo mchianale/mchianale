@@ -45,9 +45,6 @@
 - <b>Blockchain</b>
   - [Voting system using blockchain](https://github.com/mchianale/voting-system-using-blockchain)
 
-
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mchianale&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
