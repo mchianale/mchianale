@@ -28,6 +28,7 @@
   - [Algorihtm to solve Eightpuzzle](https://github.com/mchianale/Eightpuzzle_Solver)
  
 - <b>Machine Learning</b>
+  - [Fine-Tuning Camembert for Real Estate Loan Entity Extraction](https://github.com/mchianale/camemBERT-entities-extraction)
   - [tweet Sentiment Analysis](https://github.com/mchianale/tweet_sentiment_analysis)
   - [Machine Learning project using regression model to predict the number of rented bikes per day and per hour, with a final flask API](https://github.com/mchianale/seoul_bikes_predictions)
   - [Breast Cancer Prediction](https://github.com/mchianale/Breast-Cancer-Prediction)
