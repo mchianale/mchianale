@@ -12,7 +12,7 @@
 
 <center>
 | Platform  | Link |
-|-----------|------|
+|-----------|------:|
 | LinkedIn  | [Matteo Chianale](https://www.linkedin.com/in/matteo-chianale/) |
 | Email     | matteo.chianale75@gmail.com |
 </center>
