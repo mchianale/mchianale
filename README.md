@@ -20,7 +20,7 @@
 <h2>🔍 Featured Projects</h2>
 
 ### Software & Full-Stack Development
-- **[Real Estate Loan Application Service (France)](https://github.com/mchianale/loan_request_application)* - App for evaluating real estate loans in France, built with Spyne, Flask, MongoDB, and a front-end for full-stack functionality.
+- **[Real Estate Loan Application Service (France)](https://github.com/mchianale/loan_request_application)** - App for evaluating real estate loans in France, built with Spyne, Flask, MongoDB, and a front-end for full-stack functionality.
 - **[Learning Pro Web App](https://github.com/mchianale/Learning_Pro_Web_App)** — A learning platform inspired by Anki, with social features, developed using Node.js and React.
 - **[FitLifePro](https://github.com/mchianale/fitlifepro)** — A fitness app featuring a scheduling system , developed using Node.js and React.
 
