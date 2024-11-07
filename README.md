@@ -10,11 +10,12 @@
 
 <h3>📬 How to Reach Me</h3>
 
-<p align="center">
-  <strong>Contact Me:</strong><br>
-  <a href="https://www.linkedin.com/in/matteo-chianale/">LinkedIn: Matteo Chianale</a><br>
-  Email: matteo.chianale75@gmail.com
-</p>
+<center>
+| Platform  | Link |
+|-----------|------|
+| LinkedIn  | [Matteo Chianale](https://www.linkedin.com/in/matteo-chianale/) |
+| Email     | matteo.chianale75@gmail.com |
+</center>
 
 ---
 
