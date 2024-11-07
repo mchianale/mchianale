@@ -1,53 +1,50 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Matteo !
-<h2>💫 About Me:</h2>
-<br>👨‍🎓Student in Data engineering & IA</br>
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Matteo!
+
+<h2>💫 About Me</h2>
+
+👨‍🎓 I’m a passionate student in Data Engineering & AI.
 
 ![](https://komarev.com/ghpvc/?username=mchianale&label=VISITORS)
 
-<h3>🔗 Contact me:</h3>
+---
 
-| How | What |
-| --- | --- |
-| Linkedin | [Chianale Matteo ](https://www.linkedin.com/in/matteo-chianale/) |
-| Mail | matteo.chianale75@gmail.com |
+<h3>📬 How to Reach Me</h3>
 
-<!---
-<h2> 💻 Skills :</h2>
+| Platform  | Link |
+|-----------|------|
+| LinkedIn  | [Matteo Chianale](https://www.linkedin.com/in/matteo-chianale/) |
+| Email     | matteo.chianale75@gmail.com |
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
+---
 
-<h2> OS :</h2>
+<h2>🔍 Featured Projects</h2>
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
--->
-<h2>👨‍💻 My Projects:</h2>
+### Software & Full-Stack Development
+- **[Real Estate Loan Application Service (France)](https://github.com/mchianale/loan_request_application)* - App for evaluating real estate loans in France, built with Spyne, Flask, MongoDB, and a front-end for full-stack functionality.
+- **[Learning Pro Web App](https://github.com/mchianale/Learning_Pro_Web_App)** — A learning platform inspired by Anki, with social features, developed using Node.js and React.
+- **[FitLifePro](https://github.com/mchianale/fitlifepro)** — A fitness app featuring a scheduling system , developed using Node.js and React.
 
-- <b>Algorithm & Optimization</b>
-  - [Artificial bee colony algorithm implementation](https://github.com/mchianale/artificial_bee_colony)
-  - [Optimization problem using Artificial bee colony algorithm](https://github.com/mchianale/Cookie-placement-optimization)
-  - [Algorihtm to solve Eightpuzzle](https://github.com/mchianale/Eightpuzzle_Solver)
- 
-- <b>Machine Learning</b>
-  - [Fine-Tuning Camembert for Real Estate Loan Entity Extraction](https://github.com/mchianale/camemBERT-entities-extraction)
-  - [tweet Sentiment Analysis](https://github.com/mchianale/tweet_sentiment_analysis)
-  - [Machine Learning project using regression model to predict the number of rented bikes per day and per hour, with a final flask API](https://github.com/mchianale/seoul_bikes_predictions)
-  - [Breast Cancer Prediction](https://github.com/mchianale/Breast-Cancer-Prediction)
-  - [Test different clustering methods on the Breast cancer wisconsin (diagnosis) dataset](https://github.com/mchianale/Breast_Cancer_Clustering)
-  - [Test different clustering methods on the Iris dataset](https://github.com/mchianale/Iris_Clustering_Analysis)
-  - [Predictions of Titanic Survivor](https://github.com/mchianale/titanic_survivor)
-  - [Predict whether a customer will churn their subscription to a service based on their usage patterns, demographics and other characteristics.](https://github.com/mchianale/telco_churn)
+### Natural Language Processing (NLP)
+- **[Real Estate Loan Entity Extraction with Camembert](https://github.com/mchianale/camemBERT-entities-extraction)**  — Generates artificial data and fine-tunes a Camembert model to extract key entities in real estate loan applications.
+- **[Tweet Sentiment Analysis](https://github.com/mchianale/tweet_sentiment_analysis)** — Sentiment analysis on Twitter data using NLP techniques.
+  
+### Computer Vision
+- **[Plastic Garbage Detection](https://github.com/mchianale/plastic-garbage-detection)** — A YOLOv5-based model for detecting plastic waste in oceans, with evaluation metrics like IoU.
 
-- <b>Computer Vision</b>
-  - [Plastic garbage detection using Yolov5](https://github.com/mchianale/plastic-garbage-detection)
+### Optimization & Algorithms
+- **[Artificial Bee Colony Algorithm](https://github.com/mchianale/artificial_bee_colony)** — Implementation of the artificial bee colony optimization algorithm.
+- **[Cookie Placement Optimization](https://github.com/mchianale/Cookie-placement-optimization)** — Uses a bee-tree algorithm to tackle a real-world optimization problem.
+- **[Eight Puzzle Solver](https://github.com/mchianale/Eightpuzzle_Solver)** — Solves the classic eight-puzzle problem with tree-based optimization approaches.
 
-- <b>Web App with frontend & backend</b>
-  - [Anki copy with Social functionalities](https://github.com/mchianale/Learning_Pro_Web_App)
-  - [Fitness app with time table system](https://github.com/mchianale/fitlifepro)
- 
-- <b>Blockchain</b>
-  - [Voting system using blockchain](https://github.com/mchianale/voting-system-using-blockchain)
+### Data Science & Machine Learning
+- **[Seoul Bikes Demand Prediction](https://github.com/mchianale/seoul_bikes_predictions)** — Predicts daily and hourly bike rentals using regression models and a Flask API.
+- **[Customer Churn Prediction](https://github.com/mchianale/telco_churn)** — Predicts customer churn based on usage patterns and demographics for telecom services.
+- **[Breast Cancer Prediction](https://github.com/mchianale/Breast-Cancer-Prediction)** — Machine learning model for breast cancer diagnosis using scikit-learn.
+- **[Iris Clustering Analysis](https://github.com/mchianale/Iris_Clustering_Analysis)** — Comparative analysis of clustering techniques on the Iris dataset.
+
+### Blockchain & Security
+- **[Blockchain Voting System](https://github.com/mchianale/voting-system-using-blockchain)** — Implementation of a voting system on the blockchain using C, focusing on security and transparency.
+
+---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mchianale&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-
