@@ -27,6 +27,7 @@
 ---
 
 ### Natural Language Processing (NLP)
+- **[French Law RAG](https://github.com/mchianale/RAG_droitFr)** — Implements a similarity search system for legal documents, definitions etc... (167000 data), using embeddings, cosine similarity, and clustering (KNN), project not finish.
 - **[Fine-Tuning Camembert for Real Estate Loan Entity Extraction (France)](https://github.com/mchianale/camemBERT-entities-extraction)**  — Generates artificial data and fine-tunes a `Camembert` model to extract key entities in real estate loan applications.
 - **[Tweet Sentiment Analysis](https://github.com/mchianale/tweet_sentiment_analysis)** — Sentiment analysis on Twitter data using `NLP` techniques.
 
