@@ -40,7 +40,7 @@
 
 ### Optimization & Algorithms
 - **[Artificial Bee Colony Algorithm](https://github.com/mchianale/artificial_bee_colony)** — Implementation of the artificial bee colony optimization algorithm.
-- **[Cookie Placement Optimization](https://github.com/mchianale/Cookie-placement-optimization)** — Uses a bee-tree algorithm to tackle a real-world optimization problem.
+- **[Cookie Placement Optimization](https://github.com/mchianale/Cookie-placement-optimization)** — Uses a Artificial Bee Colony Algorithm to tackle a real-world optimization problem.
 - **[Eight Puzzle Solver](https://github.com/mchianale/Eightpuzzle_Solver)** — Solves the classic eight-puzzle problem with tree-based optimization approaches.
 
 ---
