@@ -34,7 +34,7 @@
 ---
 
 ### Computer Vision
-- **[Plastic Garbage Detection](https://github.com/mchianale/plastic-garbage-detection)** — A `YOLOv5`-based model for detecting plastic waste in oceans, with evaluation metrics like IoU.
+- **[Plastic Pollution Detection](https://github.com/mchianale/Plastic-Pollution-Detection/tree/main)** — A `YOLOv11`-based model for detecting plastic waste in oceans, with evaluation metrics like IoU.
 
 ---
 
