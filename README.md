@@ -19,6 +19,11 @@
 
 <h2>🔍 Featured Projects</h2>
 
+### 
+
+### LLM 
+- **[French Law RAG](https://github.com/mchianale/juriBot)** (Code of Education) – Developed an RAG (Retrieval-Augmented Generation) system for French law, specifically focused on the Code of Education. The system uses embeddings and a similarity search to retrieve relevant legal articles from Légifrance, and then generates answers to legal questions based on these texts. This project integrates the Mistral model for enhanced understanding and text generation.
+
 ### Software & Full-Stack Development
 - **[Real Estate Loan Application Service (France)](https://github.com/mchianale/loan_request_application)** - App for evaluating real estate loans in France, built with `Spyne`, `Flask`, `MongoDB`, and a `front-end` for full-stack functionality.
 - **[Learning Pro Web App](https://github.com/mchianale/Learning_Pro_Web_App)** — A learning platform inspired by Anki, with social features, developed using `Node.js` and `React`.
@@ -27,7 +32,7 @@
 ---
 
 ### Natural Language Processing (NLP)
-- **[French Law RAG](https://github.com/mchianale/RAG_droitFr)** — Implements a similarity search system for legal documents, definitions etc... (167000 data), using embeddings, cosine similarity, and clustering (KMeans), project not finish.
+- **[French Law RAG](https://github.com/mchianale/RAG_droitFr)** — Implements a similarity search system for legal documents, definitions etc... (167000 data), using embeddings, cosine similarity, and clustering (KMeans).
 - **[Fine-Tuning Camembert for Real Estate Loan Entity Extraction (France)](https://github.com/mchianale/camemBERT-entities-extraction)**  — Generates artificial data and fine-tunes a `Camembert` model to extract key entities in real estate loan applications.
 - **[Tweet Sentiment Analysis](https://github.com/mchianale/tweet_sentiment_analysis)** — Sentiment analysis on Twitter data using `NLP` techniques.
 
