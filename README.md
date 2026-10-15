@@ -2,7 +2,7 @@
 
 <h2>💫 About Me</h2>
 
-👨‍🎓 I’m a passionate student in Data Engineering & AI.
+👨‍🎓 Data Scientist & AI Engineer, now specializing in Bioinformatics & Digital Health (Sorbonne) | ML · GenAI · Computer Vision · Health data
 
 ![](https://komarev.com/ghpvc/?username=mchianale&label=VISITORS)
 
